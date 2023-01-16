@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(14, 15, 68);
+}
+#quote{
+    margin: 15rem 15rem;
+    padding: 1rem;
+    border: 5px solid gold;
+    border-radius: 1rem;
+    text-align: center;
+    background-color: rgb(10, 18, 78);
+
+    
+}
+
+ h3{
+    color: rgb(242, 242, 11);
+    font-size: 2rem;
+}
